@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'OSMgradclinic'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_859479BF21B74301AAB85AE829556F86 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3FEA96D09BAE4B9891810CE5EDC8D97A }}
